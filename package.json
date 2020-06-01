@@ -1,0 +1,26 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "chat application to demonstrate socket.io, tokens, caching",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node" : "8.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakti45/chatApplication.git"
+  },
+  "author": "Shakti Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakti45/chatApplication/issues"
+  },
+  "homepage": "https://github.com/shakti45/chatApplication#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
